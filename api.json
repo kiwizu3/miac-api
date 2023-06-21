@@ -5,7 +5,7 @@
       "method": "GET",
       "description": "Get a list of news",
       "response": {
-       "dataNewsEvents" = [
+       "dataNewsEvents" : [
   {
     "title":
       "MIAC CONCLUDES A COOPERATION AGREEMENT WITH THE LAGOS CHAMBER OF COMMERCE INTERNATIONAL ARBITRATION CENTRE (LACIAC)",
