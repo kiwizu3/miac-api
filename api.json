@@ -4,33 +4,32 @@
       "path": "/news",
       "method": "GET",
       "description": "Get a list of news",
-      "response": { 
-      "data": [
-        {
-          "id": 1,
-          "name": "John"
-        },
-        {
-          "id": 2,
-          "name": "Jane"
-        }
-      ]
-      },
+      "response": {
+        "data": [
+          {
+            "id": 1,
+            "name": "John"
+          },
+          {
+            "id": 2,
+            "name": "Jane"
+          }
+        ]
+      }
     },
     {
       "path": "/home",
       "method": "GET",
       "description": "Get home title and description",
-      "response": 
-        { 
-      "data": [
-        {
-        "id": 1,
-        "title": "Mauritius International Arbitration Centre",
-        "description": "The Mauritius International Arbitration Centre (MIAC) brings the highest level of dispute resolution services to the international community. From its establishment in 2011 until 2018, MIAC operated as part of a joint venture with the London Court of International Arbitration (LCIA-MIAC Arbitration Centre). MIAC has operated as an independent arbitration centre since 27 July 2018, drawing on the significant expertise gained during this initial phase of its development. \n\n Discover our services, and how to bring a case to MIAC.",
-        },
-          ]
-        },
+      "response": {
+        "data": [
+          {
+            "id": 1,
+            "title": "Mauritius International Arbitration Centre",
+            "description": "The Mauritius International Arbitration Centre (MIAC) brings the highest level of dispute resolution services to the international community. From its establishment in 2011 until 2018, MIAC operated as part of a joint venture with the London Court of International Arbitration (LCIA-MIAC Arbitration Centre). MIAC has operated as an independent arbitration centre since 27 July 2018, drawing on the significant expertise gained during this initial phase of its development. \n\n Discover our services, and how to bring a case to MIAC."
+          }
+        ]
+      }
     }
   ]
 }
