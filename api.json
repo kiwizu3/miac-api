@@ -5,34 +5,34 @@
       "method": "GET",
       "description": "Get a list of news",
       "response": {
-       dataNewsEvents = [
+       "dataNewsEvents" = [
   {
-    title:
+    "title":
       "MIAC CONCLUDES A COOPERATION AGREEMENT WITH THE LAGOS CHAMBER OF COMMERCE INTERNATIONAL ARBITRATION CENTRE (LACIAC)",
-    image: "1.jpg",
-    type: "PRESS RELEASE",
-    description:
+    "image": "1.jpg",
+    "type": "PRESS RELEASE",
+    "description":
       "The Mauritius International Arbitration Centre (MIAC) is pleased to announce that it has concluded a cooperation agreement with the Lagos Chamber of Commerce International Arbitration Centre (LACIAC). The agreement was signed on behalf…",
-    link: "/miac-concludes-agreement/",
-    datetime: "15/06/2023",
+    "link": "/miac-concludes-agreement/",
+    "datetime": "15/06/2023",
   },
   {
-    title: "MIAC JOINS THE INTERNATIONAL ARBITRATION CENTRE ALLIANCE",
-    image: "2.png",
-    type: "PRESS RELEASE",
-    description:
+    "title": "MIAC JOINS THE INTERNATIONAL ARBITRATION CENTRE ALLIANCE",
+    "image": "2.png",
+    "type": "PRESS RELEASE",
+    "description":
       "The Mauritius International Arbitration Centre (MIAC) has joined the International Arbitration Centre Alliance (IACA) along with the Arbitration Place, the International Dispute Resolution Centre (IDRC), the Maxwell Chambers, the Abu Dhabi…",
-    link: "/new-year-message-2/",
-    datetime: "12/06/2023",
+    "link": "/new-year-message-2/",
+    "datetime": "12/06/2023",
   },
   {
-    title: "NEW YEAR MESSAGE",
-    image: "3.png",
-    type: "PRESS RELEASE",
-    description:
+    "title": "NEW YEAR MESSAGE",
+    "image": "3.png",
+    "type": "PRESS RELEASE",
+    "description":
       "As the new year dawns, we reflect on the activities of MIAC over the last twelve months. With the easing of restrictions in Mauritius, we had the pleasure of hosting in-person hearings in domestic and international cases as well as in-person…",
-    link: "/new-year-message/",
-    datetime: "05/01/2023",
+    "link": "/new-year-message/",
+    "datetime": "05/01/2023",
   },
 ]
       }
