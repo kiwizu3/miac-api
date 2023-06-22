@@ -1,5 +1,5 @@
-"dataNewsEvents": [
-    {
+{
+	"dataNewsEvents": [{
 			"title": "MIAC CONCLUDES A COOPERATION AGREEMENT WITH THE LAGOS CHAMBER OF COMMERCE INTERNATIONAL ARBITRATION CENTRE (LACIAC)",
 			"image": "1.jpg",
 			"type": "PRESS RELEASE",
@@ -23,11 +23,5 @@
 			"link": "/new-year-message/",
 			"datetime": "05/01/2023"
 		}
-	],
-	"dataHome": [
-    {
-		"id": 1,
-		"title": "Mauritius International Arbitration Centre",
-		"description": "The Mauritius International Arbitration Centre (MIAC) brings the highest level of dispute resolution services to the international community. From its establishment in 2011 until 2018, MIAC operated as part of a joint venture with the London Court of International Arbitration (LCIA-MIAC Arbitration Centre). MIAC has operated as an independent arbitration centre since 27 July 2018, drawing on the significant expertise gained during this initial phase of its development. \n\n Discover our services, and how to bring a case to MIAC."
-    }
-  ],
+	]
+}
